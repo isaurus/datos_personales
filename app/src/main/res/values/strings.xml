@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DatosPersonales</string>
+    <string name="txt_nombre">Nombre:</string>
+    <string name="hint_nombre">Nombre de pila</string>
+    <string name="hint_apellidos">Los dos apellidos</string>
+    <string name="hint_correo">Correo electrónico</string>
+    <string name="hint_telefono">Teléfono móvil</string>
+    <string name="txt_apellidos">Apellidos:</string>
+    <string name="txt_email">eMail:</string>
+    <string name="txt_telefono">Teléfono:</string>
+    <string name="lbl_mostrar_informacion_log">Mostrar Información Log</string>
+</resources>
